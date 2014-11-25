@@ -4,5 +4,8 @@ Another edit
 Another edit to file 8
 Yet another edit to file 8
 Another edit
+<<<<<<< HEAD
 Another edit
+=======
 Added on branch test2
+>>>>>>> master
