@@ -1,0 +1,23 @@
+this is file 8
+<<<<<<< HEAD
+Another edit
+Another edit
+Another edit to file 8
+Yet another edit to file 8
+Another edit
+<<<<<<< HEAD
+Another edit
+=======
+Added on branch test2
+>>>>>>> master
+=======
+Another edit to file 8
+Another edit
+Yet another edit to file 8
+Another edit
+Another edit
+<<<<<<< HEAD
+Added on branch test2
+=======
+>>>>>>> branch 4 file 8 edit
+>>>>>>> jim/test4
