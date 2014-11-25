@@ -1,8 +1,10 @@
-this is file 8
 <<<<<<< HEAD
+this is file 8
 Another edit
 Another edit
-=======
 Another edit to file 8
 Yet another edit to file 8
->>>>>>> jim/test4
+Another edit
+=======
+Added on branch test2
+>>>>>>> jim/test2
